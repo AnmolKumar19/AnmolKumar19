@@ -6,8 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Distributed+Systems+%26+Cloud;Backend+Architecture;Full+Stack+Developer;Building+Scalable+Systems+at+Scale"/>
 
-### B.Tech in Computer Science and Engineering @ Nalanda College of Engineering[cite: 2]
-### CGPA: 8.13 / 10.00[cite: 2]
+### B.Tech in Computer Science and Engineering @ Nalanda College of Engineering
+### CGPA: 8.13 / 10.00
 
 <br>
 
@@ -25,54 +25,54 @@
 
 ## About Me
 
-I am a systems-focused Software Engineer and Computer Science undergraduate specializing in Distributed Systems, Cloud Infrastructure, and Backend Architecture[cite: 2]. I have proven expertise in full-stack application development, automation testing, and integration frameworks using Python, Java, and C++[cite: 2]. 
+I am a systems-focused Software Engineer and Computer Science undergraduate specializing in Distributed Systems, Cloud Infrastructure, and Backend Architecture. I have proven expertise in full-stack application development, automation testing, and integration frameworks using Python, Java, and C++. 
 
-I am passionate about implementing highly efficient web technologies, building robust automated testing workflows, and designing scalable architectural patterns[cite: 2].
+I am passionate about implementing highly efficient web technologies, building robust automated testing workflows, and designing scalable architectural patterns.
 
 ### Core Focus Areas
 
-- Distributed Systems & Backend Architecture[cite: 2]
-- Cloud Infrastructure & Container Orchestration[cite: 2]
-- Full-Stack Web Development[cite: 2]
-- Automation Testing & Integration Frameworks[cite: 2]
-- Asynchronous Event Streaming & Data Pipelines[cite: 2]
+- Distributed Systems & Backend Architecture
+- Cloud Infrastructure & Container Orchestration
+- Full-Stack Web Development
+- Automation Testing & Integration Frameworks
+- Asynchronous Event Streaming & Data Pipelines
 
 ---
 
 ## Professional Experience
 
 ### 🏢 EzyIntern Software Development Training Program
-**Full Stack Web Development Intern** (March 2026 – May 2026)[cite: 2]
-- Developed responsive full-stack web applications using ReactJS for dynamic client-side experiences and Python backend frameworks[cite: 2].
-- Built and integrated front-end and back-end components while implementing user authentication, CRUD operations, and PostgreSQL connectivity[cite: 2].
-- Participated in application testing, debugging, and feature enhancements to improve functionality and user experience using Postman[cite: 2].
+**Full Stack Web Development Intern** (March 2026 – May 2026)
+- Developed responsive full-stack web applications using ReactJS for dynamic client-side experiences and Python backend frameworks.
+- Built and integrated front-end and back-end components while implementing user authentication, CRUD operations, and PostgreSQL connectivity.
+- Participated in application testing, debugging, and feature enhancements to improve functionality and user experience using Postman.
 
-**Python Developer Intern** (June 2025 – June 2025)[cite: 2]
-- Developed Python-based applications and solved programming challenges to strengthen object-oriented design and problem-solving skills[cite: 2].
-- Implemented file handling, data structures, functions, and exception handling through hands-on projects and assignments[cite: 2].
-- Debugged and optimized code to improve performance, readability, and overall maintainability while utilizing Git best practices[cite: 2].
+**Python Developer Intern** (June 2025 – June 2025)
+- Developed Python-based applications and solved programming challenges to strengthen object-oriented design and problem-solving skills.
+- Implemented file handling, data structures, functions, and exception handling through hands-on projects and assignments.
+- Debugged and optimized code to improve performance, readability, and overall maintainability while utilizing Git best practices.
 
 ---
 
 ## Featured Projects
 
 ### 🚀 Scalable URL Shortener Platform
-- Built and deployed a full-stack URL-shortening service using FastAPI, PostgreSQL, and Redis featuring secure JWT authentication, detailed click analytics, and rate-limited endpoint protection[cite: 2].
-- Designed a collision-free short-code generation scheme using base62-encoded auto-increment keys, eliminating retry logic overhead[cite: 2].
-- Implemented a cache-aside Redis architecture for hot redirect resolution with automatic graceful degradation workflows to prevent database failure[cite: 2].
-- Engineered a real-time tracking pipeline to capture device, browser, and referrer telemetry data per redirect routing via clean REST APIs[cite: 2].
-- **Technologies:** Python, FastAPI, ReactJS, PostgreSQL, Redis[cite: 2]
+- Built and deployed a full-stack URL-shortening service using FastAPI, PostgreSQL, and Redis featuring secure JWT authentication, detailed click analytics, and rate-limited endpoint protection.
+- Designed a collision-free short-code generation scheme using base62-encoded auto-increment keys, eliminating retry logic overhead.
+- Implemented a cache-aside Redis architecture for hot redirect resolution with automatic graceful degradation workflows to prevent database failure.
+- Engineered a real-time tracking pipeline to capture device, browser, and referrer telemetry data per redirect routing via clean REST APIs.
+- **Technologies:** Python, FastAPI, ReactJS, PostgreSQL, Redis
 
 ### 🏢 Scalable Multi-Tenant Enterprise Platform
-- Architected a multi-tenant corporate backend integrated with Apache Kafka for asynchronous event streaming and high-throughput sync[cite: 2].
-- Designed a normalized PostgreSQL schema featuring custom indexing, reducing data retrieval latency benchmarks by 40%[cite: 2].
-- Integrated strict Role-Based Access Control (RBAC) schemas to safeguard corporate multi-tenant data privacy and isolation[cite: 2].
-- **Technologies:** Java, Spring Boot, Apache Kafka, PostgreSQL[cite: 2]
+- Architected a multi-tenant corporate backend integrated with Apache Kafka for asynchronous event streaming and high-throughput sync.
+- Designed a normalized PostgreSQL schema featuring custom indexing, reducing data retrieval latency benchmarks by 40%.
+- Integrated strict Role-Based Access Control (RBAC) schemas to safeguard corporate multi-tenant data privacy and isolation.
+- **Technologies:** Java, Spring Boot, Apache Kafka, PostgreSQL
 
 ### 🧠 High-Availability ML Inference Engine
-- Containerized machine learning models using Docker and orchestrated deployments on Kubernetes to provide auto-scaling infrastructure[cite: 2].
-- Deployed inference services on AWS EC2, utilizing S3 infrastructure for persistent storage and secure artifact management[cite: 2].
-- **Technologies:** Python, Docker, Kubernetes, AWS (EC2, S3)[cite: 2]
+- Containerized machine learning models using Docker and orchestrated deployments on Kubernetes to provide auto-scaling infrastructure.
+- Deployed inference services on AWS EC2, utilizing S3 infrastructure for persistent storage and secure artifact management.
+- **Technologies:** Python, Docker, Kubernetes, AWS (EC2, S3)
 
 ---
 
@@ -125,17 +125,17 @@ I am passionate about implementing highly efficient web technologies, building r
 
 ## Areas of Expertise
 
-⚙️ Systems & Backend Engineering[cite: 2]
+⚙️ Systems & Backend Engineering
 
-☁️ Cloud Architecture & Infrastructure[cite: 2]
+☁️ Cloud Architecture & Infrastructure
 
-🔄 DevOps, CI/CD & Automation Testing[cite: 2]
+🔄 DevOps, CI/CD & Automation Testing
 
-📦 Distributed Systems & Message Queues[cite: 2]
+📦 Distributed Systems & Message Queues
 
-📊 Relational & Graph Databases[cite: 2]
+📊 Relational & Graph Databases
 
-🧠 LLM Orchestration & GenAI Agents[cite: 2]
+🧠 LLM Orchestration & GenAI Agents
 
 ---
 
@@ -171,7 +171,7 @@ I am passionate about implementing highly efficient web technologies, building r
 
 <div align="center">
 
-### Building Highly Efficient, Robust, and Scalable Architectural Patterns[cite: 2]
+### Building Highly Efficient, Robust, and Scalable Architectural Patterns
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:00D9FF,100:00FFB2"/>
 
